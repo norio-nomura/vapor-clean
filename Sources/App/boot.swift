@@ -1,4 +1,3 @@
-import Routing
 import Vapor
 
 /// Called after your application has initialized.

@@ -12,4 +12,7 @@ It’s my hope that the official Vapor project will add a template similar to th
 
 If you have already installed the Vapor toolbox, you can create a new Vapor project from this repo using the following command:
 
-    vapor new MyProject --template=twostraws/vapor-clean
+    vapor new MyProject --template=norio-nomura/vapor-clean
+
+## Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
