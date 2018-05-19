@@ -21,4 +21,4 @@ workflows:
   tests:
     jobs:
       - linux
-      - macos
+      # - macos
