@@ -1,0 +1,12 @@
+{
+  "name": "Vapor App",
+  "keywords": [
+    "swift",
+    "vapor3"
+  ],
+  "repository": "https://github.com/norio-nomura/vapor-clean",
+  "stack": "container",
+  "env": {
+    // your configuration here
+  }
+}
