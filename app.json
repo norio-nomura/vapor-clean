@@ -7,6 +7,9 @@
   "repository": "https://github.com/norio-nomura/vapor-clean",
   "stack": "container",
   "env": {
-    // your configuration here
+    "SECRET_TOKEN": {
+      "description": "A secret token for doing your jobs.",
+      "required": true
+    }
   }
 }
